@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article component: To match snapshot with data from article 1 1`] = `ShallowWrapper {}`;
+
+exports[`Article component: To match snapshot with data from article 2 1`] = `ShallowWrapper {}`;
